@@ -127,7 +127,7 @@ Curriculum
           * [Speech and Language Processing](http://www.cs.colorado.edu/~martin/slp.html) (Jurafsky and Martin)
       * Courses
           * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera) - no longer offered. Course notes available [here](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html).
-          * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one) - no longer offered on Coursera, but can be found on [Stanford's MOOC platform](http://online.stanford.edu/course/natural-language-processing).
+          * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one) - no longer offered on Coursera, but can be found on [the professor's website](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html).
           * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) (Stanford)
   * <a name="Advanced-Machine-Learning"></a>**Advanced**
     * <a name="Deep-Learning"></a>**Deep Learning**
