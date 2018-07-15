@@ -84,8 +84,9 @@ Curriculum
       * Textbooks
           * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
-          * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
           * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) (Hernán and Robins) (draft: free!)
+          * [Forecasting: Principles and Practice](https://otexts.org/fpp2/) (Hyndman and Athanasopoulos) (free!)
+          * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
       * Courses
           * [18.440: Probability and Random Variables](https://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/index.htm) (MIT)
   * <a name="Bayesian"></a>**Bayesian**
@@ -99,6 +100,21 @@ Curriculum
     * <a name="Statistical-Learning-Theory"></a>**Statistical Learning Theory**
       * Textbooks
           * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
+* <a name="Econometrics"></a>**Econometrics**
+    * I used to have the "Econometrics" section below the "Other" section, but I decided to move it here because I've come to the conclusion that thinking like an economist is one of the most valuable skills a data scientist can have. Economists, like data scientists, often work with [observational data](https://en.wikipedia.org/wiki/Observational_study), which can make estimating the causal effect of any particular [intervention](https://plato.stanford.edu/entries/causation-mani/#Inte) rather challenging. As a result, economists tend to be *very* careful when using models to investigate causality — a skill that is sometimes [underrated by those in the data science community](https://www.linkedin.com/pulse/linear-models-actually-easily-interpretable-michael-a-alcorn).
+    * Textbooks
+        * [Mostly Harmless Econometrics: An Empiricist's Companion](http://www.mostlyharmlesseconometrics.com/) (Angrist and Pischke)
+        * [Introductory Econometrics: A Modern Approach](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107) (Wooldridge)
+        * [Econonmetric Analayis of Cross Section and Panel Data](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition) (Wooldridge)
+        * [Econometric Analysis](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm) (Greene)
+        * [Econometrics](http://press.princeton.edu/titles/6946.html) (Hayashi)
+        * [Fundamental Mathematics of Mathematical Economics](http://www.amazon.com/Fundamental-Methods-Mathematical-Economics-Wainwright/dp/0070109109) (Wainwright and Chang)
+    * Courses
+        * [Applied Econometrics](http://people.stern.nyu.edu/wgreene/Econometrics/Econometrics.htm) (New York University)
+        * [Econometric Analysis of Panel Data](http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataEconometrics.htm) (New York University)
+        * [Undergraduate Course](https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
+        * [Graduate Course](https://www.youtube.com/watch?v=GMVh02WGhoc&list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
+        * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
 * <a name="Algorithms"></a>**Algorithms**
   * Textbooks
       * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
@@ -162,17 +178,6 @@ Curriculum
           * [CMPSCI 711: More Advanced Algorithms](http://people.cs.umass.edu/~mcgregor/courses/CS711S12/) (University of Massachusetts)
           * [COSC 548 - Streaming Algorithms](http://people.seas.harvard.edu/~jthaler/COSC548.html) (Georgetown University)
           * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (Coursera)
-  * <a name="Mathematical-Economics-Econometrics"></a>**Mathematical Economics/Econometrics**
-      * Textbooks
-          * [Econometric Analysis](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm) (Greene)
-          * [Econometrics](http://press.princeton.edu/titles/6946.html) (Hayashi)
-          * [Fundamental Mathematics of Mathematical Economics](http://www.amazon.com/Fundamental-Methods-Mathematical-Economics-Wainwright/dp/0070109109) (Wainwright and Chang)
-      * Courses
-          * [Applied Econometrics](http://people.stern.nyu.edu/wgreene/Econometrics/Econometrics.htm) (New York University)
-          * [Econometric Analysis of Panel Data](http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataEconometrics.htm) (New York University)
-          * [Undergraduate Course](https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
-          * [Graduate Course](https://www.youtube.com/watch?v=GMVh02WGhoc&list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
-          * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
   * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
     *  Textbooks
        * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
