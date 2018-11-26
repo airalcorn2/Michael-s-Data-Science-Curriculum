@@ -12,12 +12,12 @@ Table of Contents
     * [**Analysis**](#Analysis)
     * [**Topology/Differential Geometry**](#Topology-Differential-Geometry)
     * [**Abstract Algebra**](#Abstract-Algebra)
-    * [**Nonlinear Dynamics**](#Nonlinear-Dynamics)
 * [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
   * [**General**](#General-Statistics)
   * [**Bayesian**](#Bayesian)
   * [**Advanced**](#Advanced-Statistics)
     * [**Statistical Learning Theory**](#Statistical-Learning-Theory)
+    * [**Theory of Probability**](#Theory-of-Probability)
 * [**Econometrics**](#Econometrics)
 * [**Algorithms**](#Algorithms)
 * [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
@@ -100,6 +100,9 @@ Curriculum
     * <a name="Statistical-Learning-Theory"></a>**Statistical Learning Theory**
       * Textbooks
           * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
+    * <a name="Theory-of-Probability"></a>**Theory of Probability**
+      * Courses
+        * [18.175: Theory of Probability](http://math.mit.edu/~sheffield/fall2016math175.html) (MIT)
 * <a name="Econometrics"></a>**Econometrics**
     * I used to have the "Econometrics" section below the "Other" section, but I decided to move it here because I've come to the conclusion that thinking like an economist is one of the most valuable skills a data scientist can have. Economists, like data scientists, often work with [observational data](https://en.wikipedia.org/wiki/Observational_study), which can make estimating the causal effect of any particular [intervention](https://plato.stanford.edu/entries/causation-mani/#Inte) rather challenging. As a result, economists tend to be *very* careful when using models to investigate causality — a skill that is sometimes [underrated by those in the data science community](https://www.linkedin.com/pulse/linear-models-actually-easily-interpretable-michael-a-alcorn).
     * Textbooks
