@@ -179,7 +179,7 @@ Curriculum
           * [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) (Udacity)
           * [Algorithms for Big Data](http://grigory.us/big-data-class.html) (Indiana University)
           * [CMPSCI 711: More Advanced Algorithms](http://people.cs.umass.edu/~mcgregor/courses/CS711S12/) (University of Massachusetts)
-          * [COSC 548 - Streaming Algorithms](http://people.seas.harvard.edu/~jthaler/COSC548.html) (Georgetown University)
+          * [COSC 548: Streaming Algorithms](http://people.cs.georgetown.edu/jthaler/COSC548.html) (Georgetown University)
           * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (Coursera)
   * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
     *  Textbooks
