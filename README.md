@@ -165,6 +165,7 @@ Curriculum
             * [COMPM050/COMPGI13: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) (University College London)
             * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (Udacity)
             * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) (University of California, Berkeley)
+            * [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (Stanford)
     * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
         * Textbooks
             * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)
