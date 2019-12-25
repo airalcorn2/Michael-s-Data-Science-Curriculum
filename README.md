@@ -120,9 +120,11 @@ Curriculum
         * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
 * <a name="Algorithms"></a>**Algorithms**
   * Textbooks
+      * [Algorithms](https://algs4.cs.princeton.edu/home/) (Sedgewick and Wayne)
       * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
   * Courses
       * [Algorithms Specialization](https://www.coursera.org/browse/computer-science/algorithms) (Coursera)
+      * [Introdcution to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) (MIT)
       * [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics) (Coursera) - while the subject matter might not be relevant to everyone, I think most computer scientists would benefit from taking this course as it really gets you thinking about efficient algorithms in a real world context.
 * <a name="Machine-Learning-Artificial-Intelligence"></a>**Machine Learning/Artificial Intelligence**
   * <a name="General-Machine-Learning"></a>**General**
