@@ -83,7 +83,7 @@ Curriculum
   * <a name="General-Statistics"></a>**General**
       * Textbooks
           * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
-          * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
+          * [OpenIntro Statistics](https://www.openintro.org/book/os/) (free!)
           * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) (Hernán and Robins) (draft: free!)
           * [Forecasting: Principles and Practice](https://otexts.org/fpp2/) (Hyndman and Athanasopoulos) (free!)
           * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
